@@ -206,4 +206,6 @@ $RECYCLE.BIN/
 
 # End of https://www.gitignore.io/api/elixir,java,macos,linux,windows,intellij,eclipse
 
+.gradle
+
 _java_build
